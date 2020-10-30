@@ -6,11 +6,6 @@ Function Author  :  Prasad Dangare
 Output           :  Inside  Fun
 
 -->
-Function Date : 29 Oct 2020
-Function Author : Prasad Dangare
-Output : Session Was Destroyed
-
--->
 
 <?php
 
